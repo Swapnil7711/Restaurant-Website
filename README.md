@@ -1,2 +1,2 @@
 # Restaurant-Website
-This dynamic website for restaurant.
+This is dynamic website for restaurant.
